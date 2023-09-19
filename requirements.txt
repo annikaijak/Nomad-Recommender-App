@@ -3,7 +3,3 @@ pandas
 numpy
 scipy
 sklearn
-geopandas
-shapely
-folium
-streamlit_folium
